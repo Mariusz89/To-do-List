@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+.Todo {
+	padding: 10px;
+	background-color: rgb(250, 250, 250);
+	border: 1px solid rgb(222, 222, 222);
+	border-radius: 4px;
+	max-width: 250px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	color: black;
+	word-wrap: break-word;
+}
+
+a {
+	text-decoration: none;
+}
+
